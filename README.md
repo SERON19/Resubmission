@@ -1,4 +1,3 @@
-# Resubmission
 # Phase1project-Quotes Website Application.
 
 This is Quotes website  application project.
